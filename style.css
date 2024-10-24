@@ -6,7 +6,7 @@
 
 body {
     font-family:'Courier New', Courier, monospace;
-    background-image: url(/blogs/sources/mountain.jpg);
+    background-image: url(blogs/sources/mountain.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     padding: 20px;
